@@ -1,24 +1,12 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# Welcome to my Profile
 
-There should be whitespace between paragraphs.
+Here are the list of projects I have worked on.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Credit Card Application
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+>The credit card application approval depends on number of factors. We can use machine learning to decide whether to approve an application.
 
 ### Header 3
 
